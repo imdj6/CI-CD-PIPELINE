@@ -16,7 +16,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             By{" "}
-            Danish Jamal
+           MD Danish Jamal 
           </a>
         </div>
       </div>
